@@ -1,0 +1,15 @@
+# datasets
+data/raw/
+data/processed/
+
+# logs
+logs/
+
+# python cache
+__pycache__/
+*.npy
+
+# env files
+.env
+
+settings
