@@ -1,0 +1,7 @@
+kaggle
+pandas
+numpy
+sentence-transformers
+transformers
+huggingface-hub
+torch
